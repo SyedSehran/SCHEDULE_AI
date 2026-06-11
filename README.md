@@ -6,7 +6,7 @@ Hackathon MVP for conflict-aware academic timetable generation.
 
 - Frontend: React + Vite + Tailwind CSS
 - Backend: Node.js + Express
-- Solver: Backtracking with preference scoring, room capacity checks, and practical-slot handling
+- Solver: Backtracking with preference scoring, room capacity checks and practical-slot handling
 - AI layer: Claude-compatible parser when `ANTHROPIC_API_KEY` is available, with heuristic fallback
 - Export: PDF from the frontend and iCal from the backend
 
